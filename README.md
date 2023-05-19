@@ -18,7 +18,7 @@ Este aplicativo informa a temperatura, umidade e velocidade do vento em paises o
 1. Clone este repositório:
 
 ```shell
-git clone [https://github.com/coutmilton/NetflixClone.git](https://github.com/coutmilton/WAPP.git)
+git clone https://github.com/coutmilton/WAPP.git
 ```
 
 2.Navegue até o diretório do projeto:
